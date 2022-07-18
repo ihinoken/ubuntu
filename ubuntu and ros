@@ -1,0 +1,10 @@
+install ubuntu
+==> install virtualbox
+==> https://www.virtualbox.org/
+==> download ubuntu 20.04 ios
+==> then run Virtualbox
+==> create virtualbox machine
+==> write in the name ubuntu 20.04
+==> run ubuntu the push install ubuntu
+==> run terminal then write
+  ==> sudo apt install build-essential dkns liunx-haeders-$(unace -r)
