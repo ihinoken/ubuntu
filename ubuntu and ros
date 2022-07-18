@@ -8,3 +8,7 @@ install ubuntu
 ==> run ubuntu the push install ubuntu
 ==> run terminal then write
   ==> sudo apt install build-essential dkns liunx-haeders-$(unace -r)
+
+install ros
+==> follow the steps on the website
+   ==> http://wiki.ros.org/noetic/Installation/Ubuntu
